@@ -1,4 +1,4 @@
-### Hi there
+### Hi there, I am Rahul Sinha
 👋
 
 - 🔭 I’m currently working on Blood Cell Classification and Breast Cancer Classification
