@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsinha19&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsinha19" /> </p>
 
-- 🔭 I’m currently working on **Captain App Pod in Rapido**
+- 🔭 I’m currently working as an Android Engineer in **Captain App Team in Rapido**
 
-- 🌱 I’m currently learning **Android Jetpacks, Android Architecture Components and many more things related to Android App Development**
+- 🌱 I’m currently learning **Android Jetpacks, Android Architecture Components, State Machines and many more things related to Android App Development**
 
 - 💬 Ask me about **Kotlin, C++, Data Strcuture & Algorithms, Competitive Programming, REST-API and many more**
 
